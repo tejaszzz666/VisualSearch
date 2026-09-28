@@ -1,0 +1,1 @@
+window.VISUALSEARCH_API_BASE = "";
